@@ -49,8 +49,8 @@ https://unlyed.github.io/next-right-now/reference/folder-structure
 			nextjs
 			...
 		/pages
-            _app.tsx
-            _document.tsx
-            index.tsx
+           		 _app.tsx
+           		 _document.tsx
+            		index.tsx
 ```
 
