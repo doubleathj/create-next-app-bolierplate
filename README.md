@@ -1,4 +1,4 @@
-# Nextjs 초기 설정 
+#내가 쓰기 위한 nextjs bolierplate
 
 ## directory 구조
 https://unlyed.github.io/next-right-now/reference/folder-structure
